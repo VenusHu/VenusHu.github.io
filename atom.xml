@@ -1,19 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Venus</title>
   
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-07-14T06:51:39.000Z</updated>
+  <updated>2017-07-14T08:15:08.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Wei Hu</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>新作</title>
+    <link href="http://yoursite.com/2017/07/14/%E6%96%B0%E4%BD%9C/"/>
+    <id>http://yoursite.com/2017/07/14/新作/</id>
+    <published>2017-07-14T08:13:02.000Z</published>
+    <updated>2017-07-14T08:15:08.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>17新作<br>个人博客建立完成，希望能够坚持写作，内容天马行空</p>
+<p>ps：这只是一个测试。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;17新作&lt;br&gt;个人博客建立完成，希望能够坚持写作，内容天马行空&lt;/p&gt;
+&lt;p&gt;ps：这只是一个测试。&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
