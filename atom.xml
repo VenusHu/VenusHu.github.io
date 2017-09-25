@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://venushu.github.io/"/>
-  <updated>2017-09-25T07:19:29.000Z</updated>
+  <updated>2017-09-25T07:34:05.000Z</updated>
   <id>https://venushu.github.io/</id>
   
   <author>
@@ -16,11 +16,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Internetworking with TCP/IP V1 01</title>
+    <title>Internetworking-Classification</title>
     <link href="https://venushu.github.io/2017/09/25/Internetworking-with-TCP-IP-V1-01/"/>
     <id>https://venushu.github.io/2017/09/25/Internetworking-with-TCP-IP-V1-01/</id>
     <published>2017-09-25T02:13:31.000Z</published>
-    <updated>2017-09-25T07:19:29.000Z</updated>
+    <updated>2017-09-25T07:34:05.000Z</updated>
     
     <content type="html"><![CDATA[<p>Recently, i’m reading Douglas E.Comer’s classical books: Internetworking with TCP/IP. This series of books covers almost all fields of networking. </p>
 <p>Now I’m reading on Chapter 17. The previous chapters talk about basic network acknowledges, including network basic, network layers, basic TCP/IP protocols , route protocols and so on. Chapter 17 talks about Packet Classification. It’s relatively new, so I want to write some notes.</p>
