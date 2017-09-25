@@ -4,9 +4,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2017-07-24T13:04:31.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="https://venushu.github.io/"/>
+  <updated>2017-09-25T02:23:28.000Z</updated>
+  <id>https://venushu.github.io/</id>
   
   <author>
     <name>Wei Hu</name>
@@ -16,11 +16,29 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>&lt;Internetworking with TCP/IP V1&gt;01</title>
+    <link href="https://venushu.github.io/2017/09/25/Internetworking-with-TCP-IP-V1-01/"/>
+    <id>https://venushu.github.io/2017/09/25/Internetworking-with-TCP-IP-V1-01/</id>
+    <published>2017-09-25T02:13:31.000Z</published>
+    <updated>2017-09-25T02:23:28.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="technology" scheme="https://venushu.github.io/categories/technology/"/>
+    
+    
+      <category term="network" scheme="https://venushu.github.io/tags/network/"/>
+    
+  </entry>
+  
+  <entry>
     <title>看得远</title>
-    <link href="http://yoursite.com/2017/07/24/%E7%9C%8B%E5%BE%97%E8%BF%9C/"/>
-    <id>http://yoursite.com/2017/07/24/看得远/</id>
+    <link href="https://venushu.github.io/2017/07/24/%E7%9C%8B%E5%BE%97%E8%BF%9C/"/>
+    <id>https://venushu.github.io/2017/07/24/看得远/</id>
     <published>2017-07-24T12:59:57.000Z</published>
-    <updated>2017-07-24T13:04:31.000Z</updated>
+    <updated>2017-09-25T02:25:44.000Z</updated>
     
     <content type="html"><![CDATA[<p>很多事情，如果不是全部的话，只要你站得高，看得远，从各个维度上去思考，想得全面，你就比别人高出一筹</p>
 ]]></content>
@@ -32,13 +50,15 @@
     
     </summary>
     
+      <category term="values" scheme="https://venushu.github.io/categories/values/"/>
+    
     
   </entry>
   
   <entry>
     <title>test</title>
-    <link href="http://yoursite.com/2017/07/20/test/"/>
-    <id>http://yoursite.com/2017/07/20/test/</id>
+    <link href="https://venushu.github.io/2017/07/20/test/"/>
+    <id>https://venushu.github.io/2017/07/20/test/</id>
     <published>2017-07-20T05:20:32.000Z</published>
     <updated>2017-07-20T05:20:32.000Z</updated>
     
@@ -51,10 +71,10 @@
   
   <entry>
     <title>大学·三观</title>
-    <link href="http://yoursite.com/2017/07/20/%E5%A4%A7%E5%AD%A6%C2%B7%E4%B8%89%E8%A7%82/"/>
-    <id>http://yoursite.com/2017/07/20/大学·三观/</id>
+    <link href="https://venushu.github.io/2017/07/20/%E5%A4%A7%E5%AD%A6%C2%B7%E4%B8%89%E8%A7%82/"/>
+    <id>https://venushu.github.io/2017/07/20/大学·三观/</id>
     <published>2017-07-20T02:42:19.000Z</published>
-    <updated>2017-07-20T02:46:03.000Z</updated>
+    <updated>2017-09-25T02:25:04.000Z</updated>
     
     <content type="html"><![CDATA[<p>突然觉得大学和初入社会的几年，最重要的是建立正确的三观。  </p>
 <p>只有有了正确的三观，对于社会有了正确的价值观、发展观，能看透社会运转的本质，才能在接下去的人生中事半功倍，取得傲人的成绩。</p>
@@ -68,15 +88,17 @@
     
     </summary>
     
+      <category term="values" scheme="https://venushu.github.io/categories/values/"/>
+    
     
   </entry>
   
   <entry>
     <title>新作</title>
-    <link href="http://yoursite.com/2017/07/14/%E6%96%B0%E4%BD%9C/"/>
-    <id>http://yoursite.com/2017/07/14/新作/</id>
+    <link href="https://venushu.github.io/2017/07/14/%E6%96%B0%E4%BD%9C/"/>
+    <id>https://venushu.github.io/2017/07/14/新作/</id>
     <published>2017-07-14T08:13:02.000Z</published>
-    <updated>2017-07-14T08:15:08.000Z</updated>
+    <updated>2017-09-25T02:25:28.000Z</updated>
     
     <content type="html"><![CDATA[<p>17新作<br>个人博客建立完成，希望能够坚持写作，内容天马行空</p>
 <p>ps：这只是一个测试。</p>
@@ -89,6 +111,8 @@
 
     
     </summary>
+    
+      <category term="values" scheme="https://venushu.github.io/categories/values/"/>
     
     
   </entry>
