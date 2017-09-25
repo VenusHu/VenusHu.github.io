@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://venushu.github.io/"/>
-  <updated>2017-09-25T07:34:05.000Z</updated>
+  <updated>2017-09-25T07:39:04.000Z</updated>
   <id>https://venushu.github.io/</id>
   
   <author>
@@ -16,11 +16,29 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Internetworking-Classification</title>
+    <title>Internetworking--Mobility-and-Mobile-IP</title>
+    <link href="https://venushu.github.io/2017/09/25/Internetworking-Mobility-and-Mobile-IP/"/>
+    <id>https://venushu.github.io/2017/09/25/Internetworking-Mobility-and-Mobile-IP/</id>
+    <published>2017-09-25T07:36:33.000Z</published>
+    <updated>2017-09-25T07:39:04.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="technology" scheme="https://venushu.github.io/categories/technology/"/>
+    
+    
+      <category term="network" scheme="https://venushu.github.io/tags/network/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Internetworking--Classification</title>
     <link href="https://venushu.github.io/2017/09/25/Internetworking-with-TCP-IP-V1-01/"/>
     <id>https://venushu.github.io/2017/09/25/Internetworking-with-TCP-IP-V1-01/</id>
     <published>2017-09-25T02:13:31.000Z</published>
-    <updated>2017-09-25T07:34:05.000Z</updated>
+    <updated>2017-09-25T07:40:42.000Z</updated>
     
     <content type="html"><![CDATA[<p>Recently, i’m reading Douglas E.Comer’s classical books: Internetworking with TCP/IP. This series of books covers almost all fields of networking. </p>
 <p>Now I’m reading on Chapter 17. The previous chapters talk about basic network acknowledges, including network basic, network layers, basic TCP/IP protocols , route protocols and so on. Chapter 17 talks about Packet Classification. It’s relatively new, so I want to write some notes.</p>
@@ -28,7 +46,7 @@
 <p>A classifier treats each packet as an array of bits and checks the contents of fields at specific locations in the array.</p>
 <p>We can regard classification as a layer between Interface layer and IP layer. It checks a packet, if any of the classification rules match the packet, the classification layer follow the rules. Otherwise, pass the packet up to the traditional protocol stack. Here is a figure showing the structure:<img src="/2017/09/25/Internetworking-with-TCP-IP-V1-01/layering-use-classification.jpg" alt="layering uses classification"></p>
 <p>The most significant advantage of a classification mechanism maybe the generalizations it enables. </p>
-<p>Classification is used woth MPLS as well as in Ethernet switches. Most Ethernet switches implement classification in hardware. A hardware technology known as TCAM uses parallelism to perform classification at extremely high speed.</p>
+<p>Classification is used with MPLS as well as in Ethernet switches. Most Ethernet switches implement classification in hardware. A hardware technology known as TCAM uses parallelism to perform classification at extremely high speed.</p>
 ]]></content>
     
     <summary type="html">
